@@ -1,0 +1,7 @@
+C:\Users\nik\source\repos\tracert22\tracert22\bin\Debug\tracert22.exe.config
+C:\Users\nik\source\repos\tracert22\tracert22\bin\Debug\tracert22.exe
+C:\Users\nik\source\repos\tracert22\tracert22\bin\Debug\tracert22.pdb
+C:\Users\nik\source\repos\tracert22\tracert22\obj\Debug\tracert22.csprojAssemblyReference.cache
+C:\Users\nik\source\repos\tracert22\tracert22\obj\Debug\tracert22.csproj.CoreCompileInputs.cache
+C:\Users\nik\source\repos\tracert22\tracert22\obj\Debug\tracert22.exe
+C:\Users\nik\source\repos\tracert22\tracert22\obj\Debug\tracert22.pdb
